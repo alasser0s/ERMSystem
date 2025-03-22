@@ -9,6 +9,6 @@
     public int MinimumStock { get; set; }
     public int RecordQuantity { get; set; }
     public bool IsActive { get; set; }
-    public ICollection<InventoryItemTransaction> InventoryItemTransactions { get; set; }
+    public ICollection<InventoryTransaction> InventoryItemTransactions { get; set; }
 
 }
