@@ -12,6 +12,6 @@
     public AssetStatus status { get; set; }
     public int Assignedtoemployeeid { get; set; }
     public Employee Assignedtoemployee { get; set; }
-    public ICollection<maintenancerecords> maintenancerecords { get; set; }
+    public ICollection<MainenanceRecords> maintenancerecords { get; set; }
 
 }
