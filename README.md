@@ -18,6 +18,8 @@ Backend: Built with ASP.NET Core Web API for robust, RESTful endpoints.
 Database: Leverages SQL Server with Entity Framework Core for efficient data persistence and querying.
 
 Architecture: Implements clean architecture with separation of concerns across Domain, Application, Infrastructure, and API layers.
+![Untitled diagram-2025-03-15-110612](https://github.com/user-attachments/assets/61dbb98b-25c8-4ef9-b66b-42a962b3fbc2)
+![Untitled diagram-2025-03-15-110937](https://github.com/user-attachments/assets/653242a5-04e3-4464-ab34-1872d556f993)
 
 Security: Includes role-based access control to ensure data integrity and restrict access based on user roles.
 
@@ -151,7 +153,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
 For questions or feedback, contact the project maintainer:
-Email: abdelrhmanalasser.com
+Email: abdelrhmanalasser@gmail.com
 
 GitHub: @alasser0s
 
