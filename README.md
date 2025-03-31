@@ -149,8 +149,6 @@ Adhere to SOLID principles and clean architecture.
 
 Write unit tests for all new features.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
 For questions or feedback, contact the project maintainer:
 Email: abdelrhmanalasser@gmail.com
